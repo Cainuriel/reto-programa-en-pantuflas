@@ -27,41 +27,36 @@ ProgramaEnPantuflas es un reto al que puedes unirte de forma muy sencilla.
 *   No se trata de una base de conocimiento llena de enlaces. Hazlo si quieres, pero mantenlo todo al mínimo para que sea más fácil proseguir en el tiempo.
 *   No es para demostrar que sabes mucho o poco, es para ti, para que te regocijes en el camino y no pierdas la perspectiva de los poderes que has conseguido.
 
-## **FAQ**
+## **Diario de Cainuriel**
 
-### **¿Qué apunto?**
 
-El objetivo es crear una lista de los retos y dificultades a los que te has enfrentado. Esto es válido para casi cualquier cosa, pero en el mundo del desarrollo tenemos tres grandes familias de hitos:
+Estoy participando en el reto #ProgramaEnPantuflas.
 
-1.  Los conseguidos en el trabajo a nivel profesional
-2.  Los de tus proyectos en paralelo
-3.  Los de tu camino de aprendizaje
+**Fecha**: 05/01/2021
 
-### **Yo todavía estoy empezando, ¿puedo participar?**
+**Humor**: 😀
 
-Por supuesto. Mira el punto 3 de la pregunta anterior.
+**Hitos conseguidos**:
+- Mini investigación sobre contratos inteligentes con Stellar, Qutum y Cardano 
+- Lectura superficial de la API SatoshiPlay 
+- Enseñado el Admin a un usuario de pruebas de mi proyecto de productos digitales para la hosteleria, la
+creación y edicción de cartas QR. Trasteó y vimos nuevas mejoras.
+- Al fin subí mi primer repositorio de mis ejercicios en Solidity
+- Aplicamos la librería en Javascript Sortable en nuestro proyecto. 
+- Subido al servidor la nueva web Fan page para que sea validada por el cliente.
+- Subida mi primera versión de mi pagina personal en Github Page.
 
-### **¿En qué lenguaje de programación se hace esto?**
 
-Da igual. Aquí se anotan logros. ¡Es translenguaje!.
+**Próximos hitos**
+- Rectificar lo que el cliente indique sobre su pagina de Fan Page.
+- Un nuevo artículo en mi blog de coaching.
+- Revisar el contrato inteligente "chequera" para guardarse en el repositorio de Solidity de reciente creación.
+- Comenzar un proyecto en Django para que sea la pagina statica de mi gabinete de Coachng
+- Buscar un servidor mejor para mi pagina de Lombricultura. 
 
-### **¿Qué es el estado de humor?**
 
-Hay que elegir entre uno de estos tres emojis: ☹️😐😀
 
-### **¿Tengo que montar el diario en Github?**
 
-No es obligatorio, ni mucho menos.
-
-Si te apañas con documentos de Google Drive o Notion o lo que sea, adelante. Recuerda que el esquema si tiene que ser el mismo siempre.
-
-### **¿Cómo diferencio entre proyectos?**
-
-Si quieres hacer referencia a los hitos por proyecto usa hashtags en cada hito. Por ejemplo #zonapremium, #vue o #aprenderpython.
-
-### **¿Es necesario hacerlo en pantuflas?**
-
-¡Por supuesto! ¡Chanclas no son bienvenidas! 😛
 
 ## **Esquema**
 
@@ -99,13 +94,8 @@ El mismo esquema con formato:
 
 *   Refactorizar hasta triunfar
 
-## **Tu diario empieza aquí**
 
-Deja esta línea para no perder la referencia:
 
-Estoy participando en el reto #ProgramaEnPantuflas.
-
-Aquí tu primer apunte
 
 ## **Badges**
 
