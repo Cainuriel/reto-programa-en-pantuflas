@@ -54,7 +54,18 @@ creación y edicción de cartas QR. Trasteó y vimos nuevas mejoras.
 - Comenzar un proyecto en Django para que sea la pagina statica de mi gabinete de Coachng
 - Buscar un servidor mejor para mi pagina de Lombricultura. 
 
+**Fecha**: 16/01/2021
 
+**Humor**: 😀
+
+**Hitos conseguidos**:
+- Empecé proyecto en Wordpress
+- Creamos tablas automaticamente para nuestra aplicación de cartas-qr
+- Hice mi primer formulario con Tripetto
+
+**Próximos hitos**
+- Revisar el contrato inteligente "chequera" para guardarse en el repositorio de Solidity de reciente creación.
+- Comenzar un proyecto en Django para que sea la pagina statica de mi gabinete de Coachng
 
 
 
@@ -65,7 +76,7 @@ Este es el esquema de cada apunte del diario:
 ```markdown
 ---
 ​
-**Fecha**: 01/01/2021
+**Fecha**: 15/01/2021
 
 **Humor**: ☹️😐😀
 
