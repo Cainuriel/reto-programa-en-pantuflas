@@ -124,7 +124,7 @@ El mismo esquema con formato:
 
 ## **Badges**
 
-He hecho mi primer commit: 
+### He hecho mi primer post! 
 ![He colocado mi primer post](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png "Primera Pantufla")
 
 
