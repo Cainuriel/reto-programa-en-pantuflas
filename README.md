@@ -124,13 +124,12 @@ El mismo esquema con formato:
 
 ## **Badges**
 
-Aquí puedes incorporar la lista de badges que has conseguido en el juego de gamificación del reto #ProgramoEnPantuflas.
+Inline-style: 
+![He colocado mi primer post](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png "Primera Pantufla")
 
-Solo para malandriners premium.
 
-\[WIP\]
 
 ## **Diarios públicos**
-
+https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png
 *   [Supercoco](https://github.com/delineas/supercoco-programa-en-pantuflas)
 *   [Delineas](https://github.com/delineas/programa-en-pantuflas)
