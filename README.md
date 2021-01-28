@@ -29,8 +29,34 @@ ProgramaEnPantuflas es un reto al que puedes unirte de forma muy sencilla.
 
 ## **Diario de Cainuriel**
 
+**Fecha**: 28/01/2021
 
-Estoy participando en el reto #ProgramaEnPantuflas.
+**Humor**: 😀
+
+**Hitos conseguidos**:
+
+*   Crear un Template para WP. (En realizar dos).
+*   He aprendido a crear un preloader para la pagina Fan Web.
+
+
+**Próximos hitos**
+
+*   Pasar mi proyecto de cartas digitales a un Framework. 
+Hemos decidido que sea Laravel.
+*   Desarrollo de contratos inteligentes en la red Cardano y Stellar.
+
+**Fecha**: 16/01/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+- Empecé proyecto en Wordpress
+- Creamos tablas automaticamente para nuestra aplicación de cartas-qr
+- Hice mi primer formulario con Tripetto
+
+**Próximos hitos**
+- Revisar el contrato inteligente "chequera" para guardarse en el repositorio de Solidity de reciente creación.
+- Comenzar un proyecto en Django para que sea la pagina statica de mi gabinete de Coachng
 
 **Fecha**: 05/01/2021
 
@@ -54,18 +80,6 @@ creación y edicción de cartas QR. Trasteó y vimos nuevas mejoras.
 - Comenzar un proyecto en Django para que sea la pagina statica de mi gabinete de Coachng
 - Buscar un servidor mejor para mi pagina de Lombricultura. 
 
-**Fecha**: 16/01/2021
-
-**Humor**: 😀
-
-**Hitos conseguidos**:
-- Empecé proyecto en Wordpress
-- Creamos tablas automaticamente para nuestra aplicación de cartas-qr
-- Hice mi primer formulario con Tripetto
-
-**Próximos hitos**
-- Revisar el contrato inteligente "chequera" para guardarse en el repositorio de Solidity de reciente creación.
-- Comenzar un proyecto en Django para que sea la pagina statica de mi gabinete de Coachng
 
 
 
