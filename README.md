@@ -29,6 +29,20 @@ ProgramaEnPantuflas es un reto al que puedes unirte de forma muy sencilla.
 
 ## **Diario de Cainuriel**
 
+
+**Fecha**: 01/02/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+- Para que se reinicien los contenedores en docker caso de parada: `sudo docker update --restart unless-stopped "Nombre-contenedor"`
+- Terminamos el template en WP. Esperando al cliente
+- Practicando con Laravel para pasar el proyecto de Cartas digitales a el.
+
+**Próximos hitos**
+- Pagina de anuncios de compra venta en wp
+
+
 **Fecha**: 28/01/2021
 
 **Humor**: 😀
