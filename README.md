@@ -29,6 +29,16 @@ ProgramaEnPantuflas es un reto al que puedes unirte de forma muy sencilla.
 
 ## **Diario de Cainuriel**
 
+**Fecha**: 08/02/2021
+
+**Humor**: ☹️
+
+**Hitos conseguidos**:
+- Esta semana varios problemas con los servidores remotos, tanto en el proyecto del cliente WP como en otros.
+
+**Próximos hitos**
+- Solucionarlos.
+
 
 **Fecha**: 01/02/2021
 
