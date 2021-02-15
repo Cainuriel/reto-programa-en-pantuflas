@@ -29,6 +29,17 @@ ProgramaEnPantuflas es un reto al que puedes unirte de forma muy sencilla.
 
 ## **Diario de Cainuriel**
 
+**Fecha**: 15/02/2021
+
+**Humor**:  😀
+
+**Hitos conseguidos**:
+- Solucinando problemas con los servidores.
+- Hemos aprendido a realizar un CRUD con laravel... Cada día más cerca de la exportación del proyecto Cartas-QR.
+
+**Próximos hitos**
+- Participar en el LiveChallenger de Daniel Primo.
+
 **Fecha**: 08/02/2021
 
 **Humor**: ☹️
