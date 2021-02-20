@@ -34,7 +34,7 @@ ProgramaEnPantuflas es un reto al que puedes unirte de forma muy sencilla.
 **Humor**:  😀😀😀!!
 
 **Hitos conseguidos**:
-- . ![Participé en el primer Live Challenger de Daniel primo](https://github.com/Cainuriel/Reto_LiveChallenge "Reto Live Challenger") 
+- . ![](https://github.com/Cainuriel/Reto_LiveChallenge "Reto Live Challenger") 
 - Aprendiendo Laravel 8 y 5.
 
 **Próximos hitos**
@@ -183,7 +183,9 @@ El mismo esquema con formato:
 
 ### He hecho mi primer post! 
 ![He colocado mi primer post](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png "Primera Pantufla")
+### Bautizo Malandriner 
 ![Boton Malandriner](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/badge-boton-malandriner.png "Botón Malandriner")
+### Insignia conmemorativa de mi participación en el Reto Live Challenger 
 ![Participé en el 1º Live Challenger](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/badge-boton-nacar.png "Botón Nácar")
 
 
