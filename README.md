@@ -29,6 +29,28 @@ ProgramaEnPantuflas es un reto al que puedes unirte de forma muy sencilla.
 
 ## **Diario de Cainuriel**
 
+**Fecha**: 20/02/2021
+
+**Humor**:  😀😀😀!!
+
+**Hitos conseguidos**:
+- . ![Participé en el primer Live Challenger de Daniel primo](https://github.com/Cainuriel/Reto_LiveChallenge "Reto Live Challenger") 
+- Aprendiendo Laravel 8 y 5.
+
+**Próximos hitos**
+- Solucionar el problema de exportación de datos al servidor del proyecto WP
+
+**Fecha**: 08/02/2021
+
+**Humor**: ☹️
+
+**Hitos conseguidos**:
+- Esta semana varios problemas con los servidores remotos, tanto en el proyecto del cliente WP como en otros.
+
+**Próximos hitos**
+- Solucionarlos.
+
+
 **Fecha**: 15/02/2021
 
 **Humor**:  😀
@@ -161,7 +183,9 @@ El mismo esquema con formato:
 
 ### He hecho mi primer post! 
 ![He colocado mi primer post](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png "Primera Pantufla")
-![He colocado mi primer post](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/badge-boton-malandriner.png "Boton Malandriner")
+![Boton Malandriner](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/badge-boton-malandriner.png "Botón Malandriner")
+![Participé en el 1º Live Challenger](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/badge-boton-nacar.png "Botón Nácar")
+
 
 
 ## **Diarios públicos**
