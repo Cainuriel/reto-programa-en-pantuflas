@@ -34,7 +34,7 @@ ProgramaEnPantuflas es un reto al que puedes unirte de forma muy sencilla.
 **Humor**:  😀😀😀!!
 
 **Hitos conseguidos**:
-- . ![](https://github.com/Cainuriel/Reto_LiveChallenge "Reto Live Challenger") 
+- [Participé en el primer reto Live Challenger de Daniel Primo](https://github.com/Cainuriel/Reto_LiveChallenge "Reto Live Challenger") 
 - Aprendiendo Laravel 8 y 5.
 
 **Próximos hitos**
