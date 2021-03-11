@@ -29,6 +29,19 @@ ProgramaEnPantuflas es un reto al que puedes unirte de forma muy sencilla.
 
 ## **Diario de Cainuriel**
 
+**Fecha**: 15/03/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+- CRUD´s en Laravel 5, 8 y con los componentes Livewire
+- Hemos aprendido a usar el OMS en Laravel
+
+**Próximos hitos**
+- Migrar proyecto WP a un host "normal". 
+- Probable vinculación en un proyecto en Cardano
+
+
 **Fecha**: 20/02/2021
 
 **Humor**:  😀😀😀!!
