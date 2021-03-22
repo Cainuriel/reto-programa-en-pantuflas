@@ -29,6 +29,18 @@ ProgramaEnPantuflas es un reto al que puedes unirte de forma muy sencilla.
 
 ## **Diario de Cainuriel**
 
+**Fecha**: 22/03/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+- CRUD´s en proyecto cartas digitales viento en popa
+- He descubierto Lighthouse de la consola.
+
+**Próximos hitos**
+- Aún pendiente la migración del proyecto WB a otro servidor.
+- Tener en cuenta las mejoras sugeridas Lighthouse e implementarlas en todos mis proyectos.
+
 **Fecha**: 15/03/2021
 
 **Humor**: 😀
@@ -44,7 +56,7 @@ ProgramaEnPantuflas es un reto al que puedes unirte de forma muy sencilla.
 
 **Fecha**: 20/02/2021
 
-**Humor**:  😀😀😀!!
+**Humor**:  😀
 
 **Hitos conseguidos**:
 - [Participé en el primer reto Live Challenger de Daniel Primo](https://github.com/Cainuriel/Reto_LiveChallenge "Reto Live Challenger") 
