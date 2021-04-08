@@ -29,6 +29,22 @@ ProgramaEnPantuflas es un reto al que puedes unirte de forma muy sencilla.
 
 ## **Diario de Cainuriel**
 
+**Fecha**: 08/04/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+- Solucionado problema de fuentes causado por el plugin Kirki de WP
+"Éste se descarga las fuentes a la carpeta wp-content enrutando desde allí.
+El problema es que a subir al servidor, el enrutamiento no encaja.
+La solución ha sido borrar las carpetas de las fuentes para forzar una
+nueva descarga y un nuevo enrutamiento desde remoto"
+
+**Próximos hitos**
+- ¿Como puedo generar una transparencia en un git?
+
+**Fecha**: 15/03/2021
+
 **Fecha**: 22/03/2021
 
 **Humor**: 😀
