@@ -29,6 +29,17 @@ ProgramaEnPantuflas es un reto al que puedes unirte de forma muy sencilla.
 
 ## **Diario de Cainuriel**
 
+**Fecha**: 23/04/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+- Hemos creado un contrato inteligente en Ethereum para desarrollar tokens no fungibles
+- Iniciando nuevo proyecto web. Se pretende desplegar en Laravel 8.
+
+**Próximos hitos**
+- Se pretenderá desplegar en Laravel 8 al nuevo proyecto.
+
 **Fecha**: 08/04/2021
 
 **Humor**: 😀
@@ -43,7 +54,6 @@ nueva descarga y un nuevo enrutamiento desde remoto"
 **Próximos hitos**
 - ¿Como puedo generar una transparencia en un git?
 
-**Fecha**: 15/03/2021
 
 **Fecha**: 22/03/2021
 
