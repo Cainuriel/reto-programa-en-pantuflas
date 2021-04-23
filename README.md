@@ -34,11 +34,11 @@ ProgramaEnPantuflas es un reto al que puedes unirte de forma muy sencilla.
 **Humor**: 😀
 
 **Hitos conseguidos**:
-- Hemos creado un contrato inteligente en Ethereum para desarrollar tokens no fungibles
-- Iniciando nuevo proyecto web. Se pretende desplegar en Laravel 8.
+- Hemos creado un contrato inteligente de tokens no fungibles para la comunidad malandriner
+- Iniciando nuevo proyecto web de plagas y enfermedades en plantas.
 
 **Próximos hitos**
-- Se pretenderá desplegar en Laravel 8 al nuevo proyecto.
+- Se pretenderá desplegar el nuevo proyecto en Laravel 8.
 
 **Fecha**: 08/04/2021
 
