@@ -29,6 +29,18 @@ ProgramaEnPantuflas es un reto al que puedes unirte de forma muy sencilla.
 
 ## **Diario de Cainuriel**
 
+**Fecha**: 04/05/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+- He hecho mis primeros contratos BEP20 en Binance Smart Chain
+- He pasado el template de agricultura a Laravel 8. Estamos con el Back
+
+**Próximos hitos**
+- Dentro del proyecto de creacion de criptomoneda turistica.
+
+
 **Fecha**: 23/04/2021
 
 **Humor**: 😀
